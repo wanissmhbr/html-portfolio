@@ -1,2 +1,2 @@
 # html-portfolio
-my portfolip
+my portfolio
